@@ -50,7 +50,6 @@ section{
   height: 35px;
   border: 1px solid #0194fe;
   background: #0194fe;
-  text-align: center;
   color: #fff;
   border-radius: 0 5px 5px 0;
   cursor: pointer;
@@ -178,6 +177,7 @@ a {
     color: #eee;
     border-color: #0194fe;
 }
+
 
 .pagination button.active {
     font-weight: 900;
